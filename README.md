@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Larissa Walisson Almeida, tenho 20 anos e sou apaixonado por tecnologia. Atualmente estou cursando Desenvolvimento de Sistemas na ETEC.
+Me chamo Walisson Almeida, tenho 20 anos e sou apaixonado por tecnologia. Atualmente estou cursando Desenvolvimento de Sistemas na ETEC.
 
 <p align="left"> 
     <a href="https://github.com/LwaFerreira?tab=repositories&sort=stargazers">
