@@ -97,9 +97,9 @@ Me chamo Walisson Almeida, tenho 20 anos e sou apaixonado por tecnologia. Atualm
   />
 
 <img 
-      align="left" 
+      align="top" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=waFerreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
