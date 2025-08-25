@@ -5,18 +5,18 @@
 Me chamo Walisson Almeida, tenho 20 anos, sou estudante de Desenvolvimento de Sistemas na ETEC e apaixonado por tecnologia. Estou em busca de uma oportunidade de estágio para iniciar minha carreira como desenvolvedor.
 
 <p align="left"> 
-    <a href="https://github.com/waFerreira?tab=repositories&sort=stargazers">
+    <a href="https://github.com/waFerreiraa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/waFerreira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/waFerreiraa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/waFerreira?tab=followers">
+    <a href="https://github.com/waFerreiraa?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/waFerreira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/waFerreiraa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
